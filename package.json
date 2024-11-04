@@ -18,9 +18,13 @@
     "vite-plugin-solid": "^2.8.2"
   },
   "dependencies": {
-    "@amcharts/amcharts5": "^5.10.5",
+    "@amcharts/amcharts5": "^5.10.7",
     "@amcharts/amcharts5-fonts": "^5.0.1",
     "@amcharts/amcharts5-geodata": "^5.1.4",
+    "@fortawesome/fontawesome-free": "^6.6.0",
+    "@fortawesome/fontawesome-svg-core": "^6.6.0",
+    "@fortawesome/free-solid-svg-icons": "^6.6.0",
+    "@fortawesome/svelte-fontawesome": "^0.2.2",
     "@solidjs/router": "^0.8.2",
     "ag-grid-community": "^32.2.0",
     "ag-grid-solid": "^31.1.1",
@@ -29,6 +33,7 @@
     "date-fns": "^4.1.0",
     "leaflet": "^1.9.4",
     "notyf": "^3.10.0",
+    "solid-fontawesome": "^0.2.1",
     "solid-icons": "^1.1.0",
     "solid-js": "^1.8.11",
     "xlsx": "^0.18.5"

@@ -92,3 +92,9 @@
 .gridbesar{
   margin-top: 10px;
 }
+.dataValue {
+  font-size: 32px; /* Make the number larger */
+  font-weight: bold; /* Make the number bold */
+  color: #007bff; /* Change color to your preference */
+  margin-top: 10px; /* Add some spacing above */
+}
